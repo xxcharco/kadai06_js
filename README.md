@@ -38,4 +38,4 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=822ykkjn
 
 参考記事
 ローカルでGASの開発を可能にするCLIツールclaspを使ってみた
-JSON.stringifyを改めて調べる。("[URL](https://qiita.com/qoAop/items/57d35a41ef9629351c3c)")
+JSON.stringifyを改めて調べる。([URL](https://qiita.com/qoAop/items/57d35a41ef9629351c3c))
